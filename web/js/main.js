@@ -45,7 +45,7 @@ var count = 0;
 
  function addValue(b, v) {
 
-   ––
+   
 
      console.log(b);
      console.log(v);
